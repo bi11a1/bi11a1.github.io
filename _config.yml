@@ -13,7 +13,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" style="text-decoration : none; pointer-events: none;">Jekyll</a> 
   with <a href="https://github.com/alshedivat/al-folio" style="text-decoration : none; pointer-events: none;">al-folio</a> theme.
   Photos from <a href="https://unsplash.com" style="text-decoration : none; pointer-events: none;">Unsplash</a>.
-keywords: md-billal-hossain, billal-portfolio, billal-website, teacher, academic, bi11a1  # add your own keywords or leave empty
+keywords: md-billal-hossain, teacher, programmer, researcher, bi11a1  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: prof_pic.jpg # ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
