@@ -8,7 +8,7 @@ layout: default
           <h1 class="post-title">
            {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
           </h1>
-          <p class="desc">{{ page.subtitle }}</p>
+          <p class="desc" style="text-decoration : none; pointer-events: none;">{{ page.subtitle }}</p>
         </header>
 
         <article>
@@ -36,7 +36,7 @@ layout: default
           </div>
           {%- endif %}
 
-          <div class="clearfix">
+          <div class="clearfix" style="text-align: justify;">
             {{ content }}
           </div>
 
@@ -56,7 +56,10 @@ layout: default
             </div>
 
             <div class="contact-note">
-              {{ site.contact_note }}
+              {{ site.contact_note }} 
+              <span class="contact-note-email">
+                {{ site.contact_note_email }}
+              </span>
             </div>
             
           </div>
