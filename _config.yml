@@ -8,7 +8,7 @@ middle_name:
 last_name: Hossain
 email: mhbillal@cuet.ac.bd
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Personal website of Md. Billal Hossain (bi11a1)
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" style="text-decoration : none; pointer-events: none;">Jekyll</a> 
   with <a href="https://github.com/alshedivat/al-folio" style="text-decoration : none; pointer-events: none;">al-folio</a> theme.
