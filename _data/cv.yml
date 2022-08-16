@@ -46,6 +46,11 @@
       description:
         - Full-time
 
+- title: Publications
+  type: list
+  contents:
+    - <a href="/publications/" target = "_blank">View in publication page</i></a>
+    
 - title: Projects
   type: time_table
   contents:
