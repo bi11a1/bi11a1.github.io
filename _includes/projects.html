@@ -11,9 +11,10 @@
       <div class="card hoverable">
         {%- if project.img %}
         {%- if project.zoomable %}
+          {% assign alt_text = 'Thumbnail of ' | append: project.title %}
           {%- include figure.html
             path=project.img
-            alt="thumbnail"
+            alt=alt_text
             zoomable=true -%}
         {% else %}
           {%- include figure.html

@@ -35,7 +35,7 @@ nav_order: 3
 <hr>
 <ul>
 	<li style="text-align: justify;">
-		<b style="color: var(--global-theme-color);">Competitive Programming Trainer: </b>I have been training competitive programming to the undergraduate students of my department and playing the role of a coach since I have joined as a faculty member. Along with some brilliant programmers, we preapred <a href="{{'assets/pdf/CUET CP Syllabus.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer">this</a> syllabus to provide a proper guideline to the students.
+		<b style="color: var(--global-theme-color);">Competitive Programming Trainer: </b>I have been training competitive programming to the undergraduate students of my department and playing the role of a coach since I have joined as a faculty member. Along with some brilliant programmers, we preapred <a href="{{'assets/pdf/CUET CP Syllabus.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer">this syllabus</a> to provide a proper guideline to the students.
 	</li>
 </ul>
 </div>
