@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+{% if page._styles %}
+<style type="text/css">
+  {{ page._styles }}
+</style>
+{% endif %}
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+
+
+</div>
+
+
+<div class="all news">
+  {% if site.news  %}
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+      {% assign news = site.news | reverse %}
+      {% for item in news limit: 1000 %}
+        <tr>
+          <th scope="row" style="min-width: 120px">{{ item.date | date: "%b %-d, %Y" }}</th>
+          <td>
+            {% if item.inline %}
+              {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+            {% else %}
+              <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            {% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+      </table>
+    </div>
+  {% else %}
+    <p>No news so far...</p>
+  {% endif %}
+</div>
