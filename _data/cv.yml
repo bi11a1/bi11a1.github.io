@@ -87,6 +87,7 @@
         - 'Codeforces, Solve Count: 1,800+ <a href="https://codeforces.com/profile/bi11a1"><i class="fas fa-external-link-alt"></i></a>'
         - 'LightOJ, Solve Count: 120+ <a href="https://lightoj.com/user/bi11a1"><i class="fas fa-external-link-alt"></i></a>'
         - 'UVa, Solve Count: 120+ <a href="https://uhunt.onlinejudge.org/id/528378"><i class="fas fa-external-link-alt"></i></a>'
+        - 'LeetCode, Solve Count: 160+ <a href="https://leetcode.com/bi11a1/"><i class="fas fa-external-link-alt"></i></a>'
     - title: "Others:"
       items:
         - Data Structures, Algorithms, Machine Learning
@@ -94,6 +95,27 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2021
+      description:
+        - title: <b>Qualified for the 2nd round of Meta Hacker Cup, 2021.</b> <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2021/certificate/273892553724263" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
+          contents:
+            - "Qualification Round: <b style='color:var(--global-self-author-color)'>382 out of 34,584</b>"
+            - "Round 1: <b style='color:var(--global-self-author-color)'>1,023 out of 12,692</b>"
+            - "Round 2: <b style='color:var(--global-self-author-color)'>672 out of 6,789</b>"
+        - title: <b>Progressed to the 2nd round of Google Code Jam, 2021.</b> <a href="/assets/pdf/contest/Certificate_Google_Code_Jam_2021.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
+          contents:
+            - "Qualification Round: <b style='color:var(--global-self-author-color)'>42 pts</b>"
+            - "Round 1: <b style='color:var(--global-self-author-color)'>795 out of 7,942</b>"
+            - "Round 2: <b style='color:var(--global-self-author-color)'>1,695 out of 3,994</b>"
+        - title: <b>41st in LeetCode Weekly Contest 227.</b> <a href="https://leetcode.com/contest/weekly-contest-227/ranking/2/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
+          contents:
+            - "41st out of 11,077 participants"
+            - "Top 1.96% overall ranking"
+    - year: 2020
+      description:
+        - title: <b>77th in Codeforces Round 647 (Div. 2) - Thanks, Algo Muse!</b> <a href="https://codeforces.com/contest/1362/standings" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
+          contents:
+            - "77th out of 10,252 participants"
     - year: 2018
       description:
         - title: <b>1st Runner Up, CUET CSE Fest - Programming Contest, 2018.</b> <a href="/assets/pdf/contest/CUET_CSE_Fest_2018.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
