@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 heading_title: Publications
-description: List of my publications in reversed chronological order.
+description: I have experience working with various machine learning algorithms that I have applied in the field of recommender systems and natural language processing tasks. All of my publications are listed below in reversed chronological order.
 years: [2022, 2021, 2020]
 nav: true
 nav_order: 1

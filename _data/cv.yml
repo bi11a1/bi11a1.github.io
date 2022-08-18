@@ -88,6 +88,10 @@
         - 'LightOJ, Solve Count: 120+ <a href="https://lightoj.com/user/bi11a1"><i class="fas fa-external-link-alt"></i></a>'
         - 'UVa, Solve Count: 120+ <a href="https://uhunt.onlinejudge.org/id/528378"><i class="fas fa-external-link-alt"></i></a>'
         - 'LeetCode, Solve Count: 160+ <a href="https://leetcode.com/bi11a1/"><i class="fas fa-external-link-alt"></i></a>'
+    - title: "Certifications:"
+      items:
+        - 'Deep Learning specialization by deeplearning.ai, Coursera <a href="https://www.coursera.org/account/accomplishments/specialization/6JEHZQEBKDCH"><i class="fas fa-external-link-alt"></i></a>'
+        - 'Spoken Language Processing in Python, DataCamp <a href="https://www.datacamp.com/statement-of-accomplishment/course/da6dc9a5e4a76a753255b66e5aa6b5d57d9b24d4"><i class="fas fa-external-link-alt"></i></a>'
     - title: "Others:"
       items:
         - Data Structures, Algorithms, Machine Learning
