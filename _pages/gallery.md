@@ -6,7 +6,7 @@ permalink: /gallery/
 description: A glimpse of some happy moments.
 nav: true
 nav_order: 2
-display_categories: [Programming Contest, Workshop]
+display_categories: [Workshop, Programming Contest]
 horizontal: false
 ---
 
