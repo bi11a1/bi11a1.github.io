@@ -139,7 +139,7 @@ collections:
 
 news_scrollable: false # adds a vertical scroll bar if there are more than news_limit news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder
-show_news: false
+# show_news: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
